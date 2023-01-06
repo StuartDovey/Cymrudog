@@ -15,6 +15,6 @@ Scanning this QR code **may** populate the table number in the pub’s app,
 it may instead connect you to a website imitating that app in order to harvest credit card details. 
 It could initiate a download of malware, send texts or emails, perhaps even call your mum.
 
-In short, don’t use them - if that doesn’t work for you there’s plenty of good advice in an article on 
+In short, don’t use them - if that doesn’t work for you there’s plenty of good advice in an article on www.social-engineer.org
 
 [QR codes and CAPTCHA tests, new scams in a digital age](https://www.social-engineer.org/social-engineering/qr-codes-and-captcha-tests-new-scams-in-a-digital-age/)
