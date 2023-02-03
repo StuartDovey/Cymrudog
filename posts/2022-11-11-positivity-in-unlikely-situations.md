@@ -8,6 +8,7 @@ I just wanted to share a little bit about positivity in unlikely situations. For
 
 Not the happiest time, perhaps - well, oddly enough, this was the most positive experience of my life and has changed me for the better in many ways. Although I spent months undergoing chemo and daily radiotherapy, taking endless combinations of pills in an attempt to find the right balance; although there were days when I hiccupped for hours on end or had a 5 hour spell of vomiting that left my larynx and lips so badly burnt by stomach acid that I couldn't talk; and although I lost all sense of taste which left food so unappetising that at one point I was struggling to get 300 calories a day into me. All of this was just the noise against a background of warmth, compassion and love. 
 
+!(/docs/assets/20200221_114059.jpg)
 
 This was the most positive time of my life because from start to finish I was surrounded by the most wonderful, caring and loving people, the nurses, volunteers, doctors, radiographers and especially the nutritionist, Lauren, who I called the cake lady for her attempts to get my weight back up.
 
